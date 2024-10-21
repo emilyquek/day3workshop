@@ -1,0 +1,4 @@
+/Users/emilyquek/Desktop/vttp/workshop3/cartdb/fred.txt
+apple
+pear
+orange

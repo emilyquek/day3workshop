@@ -1,0 +1,4 @@
+/Users/emilyquek/Desktop/vttp/workshop3/cartdb/barney.txt
+coffee
+sugar
+biscuits
